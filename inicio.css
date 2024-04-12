@@ -1,0 +1,72 @@
+body{
+margin: 0px;
+}
+.inicio{
+    text-align: center;
+    margin-top: 50px;
+}
+.caixa{
+    text-align: left;
+    margin-top: 30px;
+    left: 560px;
+    position: relative;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #DBD6D6;
+    align-items: center;
+    border-color: #ffffff;
+    
+}
+.caixa2{
+    text-align: left;
+    margin-top: 10px;
+    left: 560px;
+    position: relative;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #DBD6D6;
+    align-items: center;
+    border-color: #ffffff;
+}
+button{
+    background-color: rgb(44, 44, 161);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin-top: 45px;
+    position: relative;
+    left: 660px;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
+button:hover{
+    text-decoration: underline;
+}
+.esqc{
+    color: #524D4D;
+    left: 760px;
+    position: relative;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif; 
+    margin-top: 20px;
+}
+.esqc:hover{
+    text-decoration: underline;
+}
+.txt{
+ color:black ;
+ left: 610px;
+ margin-top: 50px;
+ position: relative;
+ font-size: 17px;
+}
+.txt2:hover{
+    text-decoration: underline;
+}
+.txt2{ 
+    color: blue;
+   
+}

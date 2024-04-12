@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    background-color: blueviolet;
+}
+.bloco{
+    text-align: center;
+    margin-top: 300px;
+    color: white;
+    font-family: Irish Grover;
+    font-size: 25px;
+}
+h1{
+    margin-top: -5px;
+}
+.logo{
+    margin-top: -150px;
+}
+.irish-grover-regular {
+    font-family: "Irish Grover", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+.Visitar{
+    background-color: rgb(44, 44, 161);
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 35px;
+}
+.Visitar:hover{
+    text-decoration: underline;
+}
